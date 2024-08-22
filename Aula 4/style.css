@@ -1,0 +1,36 @@
+body{
+    color:grey;
+    background-image: linear-gradient(rgba(238, 94, 118, 0.973),rgb(79, 155, 253),honeydew);
+     background-image: url(https://th.bing.com/th/id/R.553bdbd17bb615628a44825635a2e20f?rik=dVoI8meeW2rSjA&riu=http%3a%2f%2fcassinimx.com%2fwp-content%2fuploads%2f2021%2f11%2f6k0jz2rhxfx71-1536x864.png&ehk=%2bFysermTdP7EVxWj5eZ7P6Upo0tr3ah2ZQYMb0VfsZ0%3d&risl=&pid=ImgRaw&r=0); 
+}
+
+.Ger{
+    color: #20f532;
+    background-color:darkmagenta;
+    font-size:150%;
+    text-align: center;
+}
+.Fab{
+    color: rgb(128, 31, 219);
+    background-color: chartreuse;
+    font-size:150%;
+    text-align: center;
+}
+
+p, ol{
+    color:black;
+    background-color:whitesmoke ;
+    font-size: 20px;
+    text-align: center;
+}
+
+p, ul{
+    color: black;
+    background-color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+}
+
+.T{
+    font-size: 200%;
+}
