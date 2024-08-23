@@ -1,0 +1,24 @@
+* {
+    margin: 0 auto
+    padding:0;
+}
+
+.menu-horizontal ul{
+    background-color: rgb(37, 26, 26);
+}
+
+.menu-horizontal ul{
+    max-width: 900px;
+}
+
+.menu-horizontal ul li{
+    display: inline; /*em linha*/
+    border-style: dashed;
+}
+
+.menu-horizontal ul li a{
+    color: #fff; /*texto*/
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none; /*retira pedrão do hiperlink*/
+}
